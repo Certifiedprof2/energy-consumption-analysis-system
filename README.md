@@ -336,11 +336,11 @@ The project demonstrates several fundamental Python programming concepts, includ
 
 ### Main Menu
 
-![Main Menu](screenshots01_main_menu.png)
+![Main Menu](screenshots/Screenshot%202.png)
 
 ### Data Validation
 
-![Data Validation](screenshot2_validation.png)
+![Data Validation](screenshot1_validation.png)
 
 ### Consumption Analysis
 
