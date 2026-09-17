@@ -336,39 +336,39 @@ The project demonstrates several fundamental Python programming concepts, includ
 
 ### Main Menu
 
-![Main Menu](screenshots/Screenshot%202.png)
+![Screenshot 1](screenshots/Screenshots%201.png)
 
 ### Data Validation
 
-![Screenshot 1](screenshots/Screenshots%201.png)
+![Screenshot 2](screenshots/Screenshots%202.png)
 
 ### Consumption Analysis
 
-![Consumption Analysis](./Screenshot%203.png)
+![Screenshot 3](screenshots/Screenshots%203.png)
 
 ### Cost Analysis
 
-![Cost Analysis](./Screenshot%204.png)
+![Screenshot 4](screenshots/Screenshots%204.png)
 
 ### Location Analysis
 
-![Location Analysis](./Screenshot%205.png)
+![Screenshot 5](screenshots/Screenshots%205.png)
 
 ### Customer Type Analysis
 
-![Customer Type Analysis](./Screenshot%206.png)
+![Screenshot 6](screenshots/Screenshots%206.png)
 
 ### Monthly Analysis
 
-![Monthly Analysis](./Screenshot%207.png)
+![Screenshot 7](screenshots/Screenshots%207.png)
 
 ### Consumption Classification
 
-![Consumption Classification](./Screenshot%208.png)
+![Screenshot 8](screenshots/Screenshots%208.png)
 
 ### High-Attention Customers
 
-![High-Attention Customers](./Screenshot%208.png)
+![Screenshot 9](screenshots/Screenshots%209.png)
 
 Tech Stack
 Python 3 (standard library only — no external packages)
