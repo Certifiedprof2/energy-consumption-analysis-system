@@ -334,15 +334,13 @@ The project demonstrates several fundamental Python programming concepts, includ
 - Menu-driven programming
 
 
-### Main Menu
+### Data Manipulation
 
 ![Screenshot 1](screenshots/Screenshots%201.png)
 
 ### Data Validation
 
-![Screenshot 2](screenshot/Screenshot%202.png)
-
-### Consumption Analysis
+![Main Menu](screenshots/Screenshots%202.png)
 
 ![Screenshot 3](screenshots/Screenshots%203.png)
 
@@ -358,15 +356,9 @@ The project demonstrates several fundamental Python programming concepts, includ
 
 ![Screenshot 6](screenshots/Screenshots%206.png)
 
-### Monthly Analysis
-
 ![Screenshot 7](screenshots/Screenshots%207.png)
 
-### Consumption Classification
-
 ![Screenshot 8](screenshots/Screenshots%208.png)
-
-### High-Attention Customers
 
 ![Screenshot 9](screenshots/Screenshots%209.png)
 
