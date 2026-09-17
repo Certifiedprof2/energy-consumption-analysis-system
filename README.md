@@ -338,8 +338,6 @@ The project demonstrates several fundamental Python programming concepts, includ
 
 ![Screenshot 1](screenshots/Screenshots%201.png)
 
-### Data Validation
-
 ![Screenshot 2](screenshots/Screenshot%202.png)
 
 ![Screenshot 3](screenshots/Screenshots%203.png)
@@ -363,17 +361,21 @@ The project demonstrates several fundamental Python programming concepts, includ
 ![Screenshot 9](screenshots/Screenshots%209.png)
 
 Tech Stack
+
 Python 3 (standard library only — no external packages)
 Jupyter Notebook
 Project Structure
-Energy_Consumption_Analysis_System/ │ ├── README.md ├── Energy_Consumption_Analysis_System.ipynb ├── TEAM_A_-_ENERGY_CONSUMPTION_REPORT.docx └── screenshots/
+
 
 How to Run
+
 Open Energy_Consumption_Analysis_System.ipynb in Jupyter Notebook or JupyterLab.
 Run all cells in order.
+
 Interact with the menu system through the input prompts to explore each analysis option.
+
 Author
-Vivian Moyosore Gomes — Geoscientist | Python Study Group, Group A Team Captain| SmartBizCrux
+Ismaila Aminu Ainoko — Accountant | Python Study Group, Group A Team member| SmartBizCrux
 
 Collaborators
 Latifat Oseni
