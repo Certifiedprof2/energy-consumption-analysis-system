@@ -334,13 +334,13 @@ The project demonstrates several fundamental Python programming concepts, includ
 - Menu-driven programming
 
 
-### Data Manipulation
+### Data Exploration
 
 ![Screenshot 1](screenshots/Screenshots%201.png)
 
 ### Data Validation
 
-![Main Menu](screenshots/Screenshots%202.png)
+![Screenshot 2](screenshots/Screenshot%202.png)
 
 ![Screenshot 3](screenshots/Screenshots%203.png)
 
