@@ -333,30 +333,39 @@ The project demonstrates several fundamental Python programming concepts, includ
 - Dictionary-based grouping
 - Menu-driven programming
 
----
 
-## Project Structure
+### Main Menu
 
-```text
-energy-consumption-analysis-system/
-│
-├── README.md
-│
-├── energy_consumption_analysis.py
-│
-├── report/
-│   └── energy_consumption_report.pdf
-│
-├── presentation/
-│   └── energy_consumption_presentation.pptx
-│
-└── screenshots/
-    ├── 01_main_menu.png
-    ├── 02_validation.png
-    ├── 03_consumption_analysis.png
-    ├── 04_cost_analysis.png
-    ├── 05_location_analysis.png
-    ├── 06_customer_type_analysis.png
-    ├── 07_monthly_analysis.png
-    ├── 08_classification.png
-    └── 09_high_attention.png
+![Main Menu](screenshots01_main_menu.png)
+
+### Data Validation
+
+![Data Validation](screenshot2_validation.png)
+
+### Consumption Analysis
+
+![Consumption Analysis](screenshots3_consumption_analysis.png)
+
+### Cost Analysis
+
+![Cost Analysis](screenshots4_cost_analysis.png)
+
+### Location Analysis
+
+![Location Analysis](screenshots5_location_analysis.png)
+
+### Customer Type Analysis
+
+![Customer Type Analysis](screenshots6_customer_type_analysis.png)
+
+### Monthly Analysis
+
+![Monthly Analysis](screenshots7_monthly_analysis.png)
+
+### Consumption Classification
+
+![Consumption Classification](screenshots8_classification.png)
+
+### High-Attention Customers
+
+![High-Attention Customers](screenshots9_high_attention.png)
