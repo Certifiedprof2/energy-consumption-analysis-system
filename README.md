@@ -340,32 +340,32 @@ The project demonstrates several fundamental Python programming concepts, includ
 
 ### Data Validation
 
-![Main Menu](screenshots/Screenshot%201.png)
+![Data Validation](./screenshots/Screenshot%201.png)
 
 ### Consumption Analysis
 
-![Main Menu](screenshots/Screenshot%203.png)
+![Consumption Analysis](./screenshots/Screenshot%203.png)
 
 ### Cost Analysis
 
-![Main Menu](screenshots/Screenshot%204.png)
+![Cost Analysis](./screenshots/Screenshot%204.png)
 
 ### Location Analysis
 
-![Main Menu](screenshots/Screenshot%205.png)
+![Location Analysis](./screenshots/Screenshot%205.png)
 
 ### Customer Type Analysis
 
-![Main Menu](screenshots/Screenshot%206.png)
+![Customer Type Analysis](./screenshots/Screenshot%206.png)
 
 ### Monthly Analysis
 
-![Main Menu](screenshots/Screenshot%207.png)
+![Monthly Analysis](./screenshots/Screenshot%207.png)
 
 ### Consumption Classification
 
-![Main Menu](screenshots/Screenshot%208.png)
+![Consumption Classification](./screenshots/Screenshot%208.png)
 
 ### High-Attention Customers
 
-![Main Menu](screenshots/Screenshot%209.png)
+![High-Attention Customers](./screenshots/Screenshot%208.png)
