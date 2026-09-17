@@ -340,7 +340,7 @@ The project demonstrates several fundamental Python programming concepts, includ
 
 ### Data Validation
 
-![Data Validation](./Screenshot%201.png)
+![Data Validation](Screenshot%201.png)
 
 ### Consumption Analysis
 
@@ -369,3 +369,23 @@ The project demonstrates several fundamental Python programming concepts, includ
 ### High-Attention Customers
 
 ![High-Attention Customers](./Screenshot%208.png)
+
+Tech Stack
+Python 3 (standard library only — no external packages)
+Jupyter Notebook
+Project Structure
+Energy_Consumption_Analysis_System/ │ ├── README.md ├── Energy_Consumption_Analysis_System.ipynb ├── TEAM_A_-_ENERGY_CONSUMPTION_REPORT.docx └── screenshots/
+
+How to Run
+Open Energy_Consumption_Analysis_System.ipynb in Jupyter Notebook or JupyterLab.
+Run all cells in order.
+Interact with the menu system through the input prompts to explore each analysis option.
+Author
+Vivian Moyosore Gomes — Geoscientist | Python Study Group, Group A Team Captain| SmartBizCrux
+
+Collaborators
+Latifat Oseni
+
+Vivian Gomez
+
+Ositadimma Chidozie
