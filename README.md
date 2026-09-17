@@ -340,7 +340,7 @@ The project demonstrates several fundamental Python programming concepts, includ
 
 ### Data Validation
 
-![Data Validation](./screenshots/Screenshot%201.png)
+![Data Validation](screenshots/Screenshot%201.png)
 
 ### Consumption Analysis
 
